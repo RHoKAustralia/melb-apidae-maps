@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">apidae-maps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="village">Melbourne</string>
+    <string name="village1">Narelle\'s Story</string>
+    <string name="village2">Paul\'s Story</string>
+    <string name="village3">Scott\'s Story</string>
+    <string name="village4">Tia\'s Story</string>
+    <string name="stories">4 Stories Available</string>
+    <string name="stories1">Solar energy</string>
+    <string name="stories2">Farming</string>
+    <string name="stories3">Internet Access</string>
+    <string name="stories4">Education</string>
+
+</resources>
